@@ -23,7 +23,7 @@ var scores = {
   currentScore: score,
   HighestScore: {
     name: "Tejan",
-    score: 5,
+    score: 3,
   },
 };
 
