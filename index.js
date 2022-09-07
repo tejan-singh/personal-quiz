@@ -28,7 +28,7 @@ var scores = {
 };
 
 console.log(
-  "Welcome to Quiz App! \nHere you will answer questions related to me. \n"
+  "Hey! there. This is Tejan Singh and I welcome you to my Quiz App! \nHere you will answer questions related to me. \n"
 );
 
 const quiz = (question, correctAnswer) => {
