@@ -15,6 +15,14 @@ const questions = [
     question: "When did I complete my M. Tech degree ?",
     answer: "2021",
   },
+  {
+  question: 'Where is my college located ?',
+  answer:'Jaipur'
+  },
+  {
+  question: 'When did I complete my B. Tech degree ?',
+  answer:'2020'
+  }
 ];
 
 var score = 0;
